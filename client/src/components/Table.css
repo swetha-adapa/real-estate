@@ -1,0 +1,72 @@
+.i1{
+    border-radius: 0 150px 150px 0;
+    height: 6vh;
+    width: 6vh;
+    margin-left: -4%;
+    margin-top: 22px;
+}
+.PPPID{
+    margin-right: 0%;
+    width: 30vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 35px;
+    border-radius: 50px;
+}
+.a2{
+    display: flex;
+    width: 100%;
+}
+.btn3{
+    border-radius: 60px;
+    margin-left: 500px;
+    width: 20vh;
+    cursor: pointer;
+}
+.body{
+    width: 90%;
+    margin-bottom: 40px;
+    margin-left: 2%;
+    height:10vh;
+    background-color: #FAFBFC; 
+}
+.Table{
+    width: 950px;
+    height:80px;
+    margin-top: 20px;
+    margin-left: 40px;
+    padding-left: 20px;
+    background-color:#FAFBFC ;
+}
+.cell1{
+    color:#284E91;
+    font-weight: 600;
+    display: flexbox;
+    width: 11%;
+    margin-right: 0%;
+}
+.cell{
+    display: flexbox;
+    width: 11%;
+    margin-right: 0%;
+}
+.i3{
+    margin: 0%;
+    height: 2vh;
+    width: 3vh;
+}
+div .body{
+    margin-left: 5px;
+    background-color: white;
+}
+.body img{
+    width: 20px;
+    height: 20px;
+}
+
+.soldstatus{
+    width:40px;
+    height: 40px;
+    background-color: #F5FAF5;
+    color: #284E91;
+}

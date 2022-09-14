@@ -1,0 +1,47 @@
+
+.header-container{
+    display: inline-block;
+    height: 100%;
+    width: 280px;
+    background-color:#E1F9F4;
+}
+.part{
+    height: 15vh;
+}
+.header-container h1{
+    display: inline-block;
+    color: gray;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size:20px;
+
+}
+.header-container h2{
+    margin-left: 110px;
+    
+}
+
+
+.header-container img{
+    display: inline-block;
+    height: 2vh;
+    width: 2vh;
+    margin-left: 8vh;
+    margin-top: 5vh;
+}
+
+.header-container .colo{
+    color: blue;
+    margin-right: 50px;
+}
+
+
+.header-container h3{
+    display: inline-block;
+    color: blue;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size:20px;
+}

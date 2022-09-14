@@ -1,0 +1,86 @@
+.headerbody{
+    background-color: #F5F5F5;
+    height:15vh;
+    border-bottom: 5px solid #E1F9F4;
+}
+.wrapper{
+    
+    width: 1000px;
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+}
+.logo h2{
+    color: #B4B4C6;
+}
+.menu-button{
+    background-color: transparent;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid #fff;
+    height: 35px;
+    margin-top: 25px;
+    margin-right: 500px;
+}
+
+.right-menu{
+    position: relative;
+    display: inline-block;
+    float: right;
+
+}
+.dropdown-menu{
+    display: none;
+    position:absolute;
+    background-color: #4C57B6;
+    width: 80px;
+    height:50px;
+    padding-left: 25px;
+    margin-left: 200px;
+    
+    
+}
+
+.dropdown-menu p:hover{
+    position:absolute;
+    background-color: #4C57B6;
+    height:30px;
+    color:white;
+}
+.right-menu:hover .dropdown-menu{
+    display: block;
+}
+.right-menu:hover .menu-button{
+    background-color: transparent;
+}
+
+.dropdown-menu p{
+    cursor: pointer;
+    align-items: center;
+}
+
+.right-menu img{
+    width: 30px;
+    height:30px;
+
+}
+
+nav{
+display:flex;
+}
+
+nav{
+    width: 315px;
+}
+nav h5{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-right: 100px;
+    color: #A6A6A6;
+}
+nav img{
+    margin-top: 25px;
+    margin-right: 50px;
+}
